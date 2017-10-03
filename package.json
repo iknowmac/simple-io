@@ -1,0 +1,17 @@
+{
+  "name": "simple-io-chat",
+  "version": "0.0.1",
+  "description": "example socket.io app",
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/towen/simple-io.git"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.0",
+    "socket.io": "^2.0.3"
+  }
+}
